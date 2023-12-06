@@ -10,6 +10,9 @@
 class Bonezegei_DS18B20{
 public:
   Bonezegei_DS18B20();
+  Bonezegei_DS18B20(int pin);
+
+  char begin();
 };
 
 #endif
