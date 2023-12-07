@@ -1,5 +1,7 @@
 /*
   DS18B20 Library
   Author: Bonezegei (Jofel Batutay)
-  Date : November 2023
+  Date :
 */
+
+ Bonezegei_DS18B20::Bonezegei_DS18B20(){}
