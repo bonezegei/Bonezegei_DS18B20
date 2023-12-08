@@ -13,6 +13,8 @@ public:
   Bonezegei_DS18B20(int pin);
 
   char begin();
+
+  int _pin;
 };
 
 #endif
