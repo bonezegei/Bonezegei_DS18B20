@@ -1,0 +1,5 @@
+Bonezegei_DS18B20	KEYWORD1
+begin	KEYWORD2
+read	KEYWORD2
+getTemperatureC	KEYWORD2
+getTemperatureF	KEYWORD2
